@@ -3,8 +3,9 @@ just a very basic hello kitty chat bot i created when i had nothing better to do
 ## What It Does
 This web app lets you chat with a bot and perform a few handy commands. You can:
 
-# Chat with the bot:# Type your message and hit "Send" to get a response.
- # Use commands: Type specific commands to get quick info or actions.
+1. Chat with the bot:# Type your message and hit "Send" to get a response.
+2. Use commands: Type specific commands to get quick info or actions.
+
 # Commands #
 -help: Shows a list of available commands.
 Tell me the day: Get the current day of the week.
