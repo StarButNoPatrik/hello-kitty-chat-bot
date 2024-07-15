@@ -8,11 +8,17 @@ This web app lets you chat with a bot and perform a few handy commands. You can:
 
 # Commands #
 -help: Shows a list of available commands.
-Tell me the day: Get the current day of the week.
+
+Tell me the day: Get the current day of the week
+
 Search for [query]: Search Google for whatever you need.
+
 Play song [name ]: Search YouTube for a song/video.
+
 Tell me the time: Get the current time.
+
 Open Spotify: Launch the Spotify app.
+
 (ill add more, probably?)
 
 Getting Started
